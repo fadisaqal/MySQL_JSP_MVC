@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  <h1>Hallo</h1>
+  <h1>Hello</h1>
   <form action="${pageContext.request.contextPath}/controller" method="post">
       <%--<select name="item">--%>
           <%--<option value="1">One</option>--%>
