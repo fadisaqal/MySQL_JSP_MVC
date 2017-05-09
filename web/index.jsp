@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Home page</title>
+    <title>HomePage</title>
   </head>
   <body>
   <h1>Hello</h1>
@@ -18,7 +18,7 @@
           <%--<option value="2">Two</option>--%>
           <%--<option value="3">Three</option>--%>
       <%--</select>--%>
-          <input type="text" name="item">
+          <input type="text" title="Country Code" name="item">
       <button type="submit" name="button" value="submit">Submit</button>
   </form>
   </body>
